@@ -1,0 +1,9 @@
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\bin\Debug\ILK_UYGULAMAM_IO.exe.config
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\bin\Debug\ILK_UYGULAMAM_IO.exe
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\bin\Debug\ILK_UYGULAMAM_IO.pdb
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.Form1.resources
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.Properties.Resources.resources
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.csproj.GenerateResource.Cache
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.exe
+c:\users\user\Desktop\ILK_UYGULAMAM_IO\ILK_UYGULAMAM_IO\obj\Debug\ILK_UYGULAMAM_IO.pdb
