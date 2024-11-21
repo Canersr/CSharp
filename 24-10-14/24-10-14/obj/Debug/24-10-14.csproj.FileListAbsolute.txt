@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\24-10-14\24-10-14\bin\Debug\24-10-14.exe.config
+C:\Users\User\Desktop\24-10-14\24-10-14\bin\Debug\24-10-14.exe
+C:\Users\User\Desktop\24-10-14\24-10-14\bin\Debug\24-10-14.pdb
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\24-10-14.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\_24_10_14.Form1.resources
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\_24_10_14.Properties.Resources.resources
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\24-10-14.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\24-10-14.exe
+C:\Users\User\Desktop\24-10-14\24-10-14\obj\Debug\24-10-14.pdb
