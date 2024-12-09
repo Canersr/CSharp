@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\caner\\desktop\\24-12-09 selam hocanin \u00F6dev\u0130\\c# \u00F6dev\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\caner\\desktop\\24-12-09 selam hocanin \u00F6dev\u0130\\c# \u00F6dev\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B1BB3F-5EE5-4819-8BB2-4057849C3D20}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA+wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:49:47.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:49:29.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\caner\\Desktop\\24-12-09 SELAM HOCANIN \u00D6DEV\u0130\\c# \u00F6dev\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:46:01.745Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
