@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\bin\Debug\24-12-10 Flash_Multimedya.exe.config
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\bin\Debug\24-12-10 Flash_Multimedya.exe
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\bin\Debug\24-12-10 Flash_Multimedya.pdb
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\24-12-10 Flash_Multimedya.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\_24_12_10_Flash_Multimedya.Form1.resources
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\_24_12_10_Flash_Multimedya.Properties.Resources.resources
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\24-12-10 Flash_Multimedya.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\24-12-10 Flash_Multimedya.exe
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\24-12-10 Flash_Multimedya.pdb
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\24-12-10 Flash_Multimedya.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\24-12-10 Flash_Multimedya\24-12-10 Flash_Multimedya\obj\Debug\_24_12_10_Flash_Multimedya.Form2.resources
